@@ -1,5 +1,5 @@
 # Modified AES-Keccak cipher by Ha My Nguyen
-# SNUM = '150545512'
+# SNUM = '---'
 
 import sys
 L = 5
