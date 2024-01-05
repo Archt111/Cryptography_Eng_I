@@ -1,0 +1,50 @@
+index: 0
+left:ITISNOTT
+right:OOTRICKY
+index: 1
+left:OOTRICKY
+right:NNLYSIAB
+index: 2
+left:NNLYSIAB
+right:FFVUNRKX
+index: 3
+left:FFVUNRKX
+right:TPNWUKML
+index: 4
+left:TPNWUKML
+right:UOCDIPGL
+index: 5
+left:UOCDIPGL
+right:OZIBXXXA
+index: 6
+left:OZIBXXXA
+right:MRFNIDDH
+index: 7
+left:MRFNIDDH
+right:OSLWPUUD
+index: 8
+left:OSLWPUUD
+right:WFYCQRLH
+index: 9
+left:WFYCQRLH
+right:HLSCAJEC
+index: 10
+left:HLSCAJEC
+right:JMFVTBFN
+index: 11
+left:JMFVTBFN
+right:DBMWYVWE
+index: 12
+left:DBMWYVWE
+right:PSLIYNZW
+index: 13
+left:PSLIYNZW
+right:PVQEXISY
+index: 14
+left:PVQEXISY
+right:NYKFXGXY
+index: 15
+left:NYKFXGXY
+right:RHEQHWEO
+
+Final cyphertext: TSUIGULHRHEQHWEO
